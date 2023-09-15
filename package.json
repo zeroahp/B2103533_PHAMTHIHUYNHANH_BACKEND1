@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeroahp/B2103533_PHAMTHIHUYNHANH_BACKEND1.git"
+  },
+  "author": "AnhPham B2103533",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeroahp/B2103533_PHAMTHIHUYNHANH_BACKEND1/issues"
+  },
+  "homepage": "https://github.com/zeroahp/B2103533_PHAMTHIHUYNHANH_BACKEND1#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
